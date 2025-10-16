@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\bin\Debug\net7.0\VariablesAndOperators.exe
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\bin\Debug\net7.0\VariablesAndOperators.deps.json
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\bin\Debug\net7.0\VariablesAndOperators.runtimeconfig.json
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\bin\Debug\net7.0\VariablesAndOperators.dll
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\bin\Debug\net7.0\VariablesAndOperators.pdb
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\obj\Debug\net7.0\VariablesAndOperators.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\obj\Debug\net7.0\VariablesAndOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\obj\Debug\net7.0\VariablesAndOperators.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\obj\Debug\net7.0\VariablesAndOperators.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\obj\Debug\net7.0\VariablesAndOperators.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\obj\Debug\net7.0\VariablesAndOperators.dll
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\obj\Debug\net7.0\refint\VariablesAndOperators.dll
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\obj\Debug\net7.0\VariablesAndOperators.pdb
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\obj\Debug\net7.0\VariablesAndOperators.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\c# projects\VariablesAndOperators\VariablesAndOperators\obj\Debug\net7.0\ref\VariablesAndOperators.dll
